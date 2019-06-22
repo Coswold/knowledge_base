@@ -1,3 +1,8 @@
-# Headline
+# Overview
 
-> An awesome project.
+> I like to read and I forget stuff a lot, so I decided to upload my brain digitally.
+
+## Structure
+* Main Topic
+    * Sub Topic
+    * Resources
