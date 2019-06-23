@@ -65,7 +65,8 @@ If you like Mind Expanding books you should check out my new project http://diff
 
 ## Philosophy And Psychology
 | Name | Author | Goodreads Rating | Year Published |  
-|------|--------|------------------|----------------|  
+|------|--------|------------------|----------------| 
+| Self-Analysis | Karen Horney | [4.03](https://www.goodreads.com/book/show/104702.Self_Analysis?from_search=true) | 1942 |
 | Tattoos on the Heart: The Power of Boundless Compassion | Gregory Boyle | [4.41](https://www.goodreads.com/book/show/7090193-tattoos-on-the-heart) | 2010 |  
 | Education and the Significance of Life | Krishnamurti | [4.38](https://www.goodreads.com/book/show/353435.Education_and_the_Significance_of_Life) | 2008 |  
 | Man's Search for Meaning | Viktor E. Frankl | [4.33](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning) | 2006 |  
@@ -184,15 +185,16 @@ If you like Mind Expanding books you should check out my new project http://diff
 | The Revenge of Geography: What the Map Tells Us About Coming Conflicts and the Battle Against Fate | Robert D. Kaplan | [3.68](https://www.goodreads.com/book/show/13330422-the-revenge-of-geography) | 2012 |  
 | The World Is Flat: A Brief History of the Twenty-first Century | Thomas L. Friedman | [3.66](https://www.goodreads.com/book/show/1911.The_World_Is_Flat) | 2006 |  
 
-## Science and Medicine
+## STEM (Science, Technology, Engineering, Math)
+
+### Science
 | Name | Author | Goodreads Rating | Year Published |  
-|------|--------|------------------|----------------|  
+|------|--------|------------------|----------------|
+| Darwin Comes to Town: How the Urban Jungle Drives Evolution | Menno Schilthuizen | [4.05](https://www.goodreads.com/book/show/34930832-darwin-comes-to-town?from_search=true) | 2018 |
 | Asimov's New Guide to Science | Isaac Asimov | [4.36](https://www.goodreads.com/book/show/977262.Asimov_s_New_Guide_To_Science) | 1985 |  
-| Origins of Form: The Shape of Natural and Man-Made Things | Christopher Williams | [4.31](https://www.goodreads.com/book/show/16255011-origins-of-form) | 2013 |  
 | Gödel, Escher, Bach: An Eternal Golden Braid | Douglas R. Hofstadter | [4.30](https://www.goodreads.com/book/show/24113.G_del_Escher_Bach) | 1979 |  
 | The Little Schemer | Daniel P. Friedman, Matthias Felleisen, Duane Bibby, Gerald J. Sussman | [4.27](https://www.goodreads.com/book/show/548914.The_Little_Schemer) | 1995 |  
 | Scientific Genius: A Psychology of Science | Dean Keith Simonton | [4.25](https://www.goodreads.com/book/show/1752295.Scientific_Genius) | 1988 |  
-| Out of Control: The New Biology of Machines, Social Systems, and the Economic World | Kevin Kelly | [4.24](https://www.goodreads.com/book/show/16080353-out-of-control) | 1995 |  
 | The Brain: The Story of You | David Eagleman | [4.20](https://www.goodreads.com/book/show/25776132.the-brain) | 2015 |
 | A Short History of Nearly Everything | Bill Bryson | [4.19](https://www.goodreads.com/book/show/21.A_Short_History_of_Nearly_Everything) |  |  
 | The Symbolic Species: The Co-evolution of Language and the Brain | Terrence W. Deacon | [4.17](https://www.goodreads.com/book/show/733691.The_Symbolic_Species) | 1998 |  
@@ -200,29 +202,31 @@ If you like Mind Expanding books you should check out my new project http://diff
 | The Selfish Gene | Richard Dawkins | [4.11](http://www.goodreads.com/book/show/61535.The_Selfish_Gene) |  |  
 | Figments of Reality: The Evolution of the Curious Mind | Ian Stewart, Jack Cohen | [4.11](https://www.goodreads.com/book/show/164560.Figments_of_Reality) | 2009 |  
 | The New Executive Brain: Frontal Lobes in a Complex World | Elkhonon Goldberg | [4.07](https://www.goodreads.com/book/show/6745893-the-new-executive-brain) |  |  
-| The Extended Phenotype: The Long Reach of the Gene | Richard Dawkins | [4.07](https://www.goodreads.com/book/show/61538.The_Extended_Phenotype) | 1999 |  
 | Rare Earth: Why Complex Life is Uncommon in the Universe | Peter D. Ward, Donald Brownlee | [4.06](https://www.goodreads.com/book/show/88552.Rare_Earth) | 2003 |  
-| Stiff: The Curious Lives of Human Cadavers | Mary Roach | [4.05](https://www.goodreads.com/book/show/32145.Stiff) | 2004 |  
 | Darwin's Dangerous Idea | Daniel C. Dennett | [4.03](https://www.goodreads.com/book/show/2068.Darwin_s_Dangerous_Idea) |  |  
-| The Inevitable: Understanding the 12 Technological Forces That Will Shape Our Future | Kevin Kelly | [4.02](https://www.goodreads.com/book/show/27209431-the-inevitable) | 2016 |  
 | The Outer Limits of Reason: What Science, Mathematics, and Logic Cannot Tell Us | Noson S. Yanofsky | [4.00](http://www.goodreads.com/book/show/17841838-the-outer-limits-of-reason) | 2013 |  
 | The Structure of Scientific Revolutions: 50th Anniversary Edition | Thomas S. Kuhn | [3.99](https://www.goodreads.com/book/show/61539.The_Structure_of_Scientific_Revolutions) | 1996 |  
-| At Home in the Universe: The Search for the Laws of Self-Organization and Complexity | Stuart Kauffman | [3.97](https://www.goodreads.com/book/show/319006.At_Home_in_the_Universe) | 1996 |  
-| The Wealth of Networks: How Social Production Transforms Markets and Freedom | Yochai Benkler | [3.95](https://www.goodreads.com/book/show/14721.The_Wealth_of_Networks) | 2006 |  
-| Mind Children: The Future of Robot and Human Intelligence |  Hans Moravec. | [3.95](https://www.goodreads.com/book/show/648195.Mind_Children) | 1990 |  
 | How to Find a Habitable Planet | James Kasting | [3.93](https://www.goodreads.com/book/show/7551498-how-to-find-a-habitable-planet) | 2010 |  
 | The 10,000 Year Explosion: How Civilization Accelerated Human Evolution | Gregory Cochran, Henry Harpending | [3.91](https://www.goodreads.com/book/show/6033964-the-10-000-year-explosion) |  |  
 | Evolution for Everyone: How Darwin's Theory Can Change the Way We Think About Our Lives | David Sloan Wilson | [3.90](http://www.goodreads.com/book/show/159062.Evolution_for_Everyone) | 2007 |
+| The Quark and the Jaguar: Adventures in the Simple and the Complex | Murray Gell-Mann | [3.81](https://www.goodreads.com/book/show/270881.The_Quark_and_the_Jaguar) |  |  
+| Origins of Genius: Darwinian Perspectives on Creativity | Dean Keith | [3.74](https://www.goodreads.com/book/show/254489.Origins_of_Genius) | 1999 |  
+| Blueprint: The Evolutionary Origins of a Good Society | Nicholas A. Christakis | [4.13](https://www.goodreads.com/book/show/40696923-blueprint?ac=1&from_search=true) | 2019 |  
+
+### Technology
+| Name | Author | Goodreads Rating | Year Published |  
+|------|--------|------------------|----------------| 
+| Heaven in a Chip: Fuzzy Visions of Society and Science in the Digital Age | Bart Kosko | [3.82](https://www.goodreads.com/book/show/172645.Heaven_in_a_Chip) | 2000 | 
+| Out of Control: The New Biology of Machines, Social Systems, and the Economic World | Kevin Kelly | [4.24](https://www.goodreads.com/book/show/16080353-out-of-control) | 1995 | 
+| The Inevitable: Understanding the 12 Technological Forces That Will Shape Our Future | Kevin Kelly | [4.02](https://www.goodreads.com/book/show/27209431-the-inevitable) | 2016 |  
+| Mind Children: The Future of Robot and Human Intelligence |  Hans Moravec. | [3.95](https://www.goodreads.com/book/show/648195.Mind_Children) | 1990 | 
 | Life at the Speed of Light: From the Double Helix to the Dawn of Digital Life | J. Craig Venter | [3.87](www.goodreads.com/book/show/17674969-life-at-the-speed-of-light) | 2013 |
 | The Shallows: What the Internet is Doing to Our Brains | Nicholas Carr | [3.85](https://www.goodreads.com/book/show/9778945-the-shallows) | 2011 |  
-| Catching Fire: How Cooking Made Us Human | Richard Wrangham | [3.83](https://www.goodreads.com/book/show/11148989-catching-fire) | 2009 |  
-| Heaven in a Chip: Fuzzy Visions of Society and Science in the Digital Age | Bart Kosko | [3.82](https://www.goodreads.com/book/show/172645.Heaven_in_a_Chip) | 2000 |  
-| The Quark and the Jaguar: Adventures in the Simple and the Complex | Murray Gell-Mann | [3.81](https://www.goodreads.com/book/show/270881.The_Quark_and_the_Jaguar) |  |  
-| Tomorrowland: Our Staggering Journey from Science Fiction to Science Fact | Steven Kotler | [3.80](http://www.goodreads.com/book/show/25060233-tomorrowland) | 2015 |  
-| Origins of Genius: Darwinian Perspectives on Creativity | Dean Keith | [3.74](https://www.goodreads.com/book/show/254489.Origins_of_Genius) | 1999 |  
 | Mind Wars: Brain Research and National Defense | Jonathan D. Moreno | [3.45](http://www.goodreads.com/book/show/599321.Mind_Wars) | 2007 |  
+| Origins of Form: The Shape of Natural and Man-Made Things | Christopher Williams | [4.31](https://www.goodreads.com/book/show/16255011-origins-of-form) | 2013 |  
+| The Transparent Society: Will Technology Force Us To Choose Between Privacy And Freedom? | David Brin | [3.92](https://www.goodreads.com/book/show/96477.The_Transparent_Society?from_search=true) | 1998 |
 
-## Logic and Problem Solving
+### Math and Logic
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
 | What Is the Name of This Book?: The Riddle of Dracula and Other Logical Puzzles | Raymond M. Smullyan | [4.24](https://www.goodreads.com/book/show/493576.What_Is_the_Name_of_This_Book_) | 2011 |  
@@ -264,6 +268,7 @@ If you like Mind Expanding books you should check out my new project http://diff
 ## Education
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
+| Dumbing Us Down: The Hidden Curriculum of Compulsory Schooling | John Taylor Gatto | [4.17](https://www.goodreads.com/book/show/225850.Dumbing_Us_Down?from_search=true) | 1991 |  
 | Mindstorms: Children, Computers, And Powerful Ideas | Seymour A. Papert | [4.32](https://www.goodreads.com/book/show/703532.Mindstorms) | 1993 |  
 | How Children Fail | John Holt | [4.22](https://www.goodreads.com/book/show/573009.How_Children_Fail) | 1995 |  
 | Make It Stick: The Science of Successful Learning | Peter C. Brown, Henry L. Roediger III, Mark A. McDaniel | [4.20](https://www.goodreads.com/book/show/18770267.make-it-stick) | 2014 |
@@ -298,19 +303,18 @@ If you like Mind Expanding books you should check out my new project http://diff
 
 ### Classics
 | Name | Author | Goodreads Rating | Year Published |  
-|------|--------|------------------|----------------|  
+|------|--------|------------------|----------------|
+| One, No One, and One Hundred Thousand | Luigi Pirandello | [4.11](https://www.goodreads.com/book/show/12117.One_No_One_and_One_Hundred_Thousand?from_search=true) | 1992 |  
+| On the Road | Jack Kerouac | [3.63](https://www.goodreads.com/book/show/70401.On_the_Road?from_search=true) | 1957 | 
 | The Master and Margarita | Mikhail Bulgakov | [4.32](https://www.goodreads.com/book/show/117833.The_Master_and_Margarita) | 1996 |  
 | Infinite Jest | David Foster Wallace | [4.31](https://www.goodreads.com/book/show/6759.Infinite_Jest) | 1995 |  
 | The Brothers Karamazov | Fyodor Dostoevsky, Richard Pevear, Larissa Volokhonsky | [4.30](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov) | 2002 |  
 | Pride And Prejudice | Jane Austen | [4.24](https://www.goodreads.com/book/show/1885.Pride_and_Prejudice) | 2000 |  
-| A Prayer for Owen Meany | John Irving | [4.22](https://www.goodreads.com/book/show/4473.A_Prayer_for_Owen_Meany) | 1990 |  
 | Letters From The Earth | Mark Twain | [4.22](https://www.goodreads.com/book/show/37813.Letters_from_the_Earth) | 2004 |  
 | One Flew Over the Cuckoo's Nest | Ken Kesey | [4.18](https://www.goodreads.com/book/show/332613.One_Flew_Over_the_Cuckoo_s_Nest) | 1963 |  
 | Crime and Punishment | Fyodor Dostoyevsky | [4.18](https://www.goodreads.com/book/show/7144.Crime_and_Punishment) | 2002 |  
 | Steppenwolf: A Novel | Hermann Hesse, Basil Creighton | [4.11](https://www.goodreads.com/book/show/16631.Steppenwolf) | 1999 |  
-| The Glass Bead Game | Hermann Hesse, Richard and Clara Winston | [4.11](https://www.goodreads.com/book/show/16634.The_Glass_Bead_Game) | 2002 |  
 | War and Peace | Leo Tolstoy | [4.11](https://www.goodreads.com/book/show/656.War_and_Peace) | 1998 |  
-| Jane Eyre | Charlotte Brontë | [4.10](https://www.goodreads.com/book/show/10210.Jane_Eyre) | 1847 |  
 | Germinal | Emile Zola | [4.10](https://www.goodreads.com/book/show/28407.Germinal) | 2004 |  
 | If on a Winter's Night a Traveler | Italo Calvino and William Weaver | [4.08](https://www.goodreads.com/book/show/374233.If_on_a_Winter_s_Night_a_Traveler) | 1982 |  
 | The Wall: (Intimacy) and Other Stories | Jean-Paul Sartre, Lloyd Alexander | [4.07](https://www.goodreads.com/book/show/10031.The_Wall) | 2010 |  
@@ -337,7 +341,6 @@ If you like Mind Expanding books you should check out my new project http://diff
 | Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values  | Robert M. Pirsig | [3.76](https://www.goodreads.com/book/show/629.Zen_and_the_Art_of_Motorcycle_Maintenance) | 1974 |
 | Candide | Voltaire | [3.76](https://www.goodreads.com/book/show/19380.Candide) | 1991 |  
 | Atlas Shrugged | Ayn Rand | [3.68](https://www.goodreads.com/book/show/9365.Atlas_Shrugged) | 1957 |
-| Madame Bovary | Gustave Flaubert | [3.65](https://www.goodreads.com/book/show/2175.Madame_Bovary) | 2004 |  
 | Confessions | Jean-Jacques Rousseau | [3.61](https://www.goodreads.com/book/show/12649.Confessions) | 2003 |  
 | Lettres persanes | Montesquieu | [3.54](http://www.goodreads.com/book/show/509686.Persian_Letters) |  |  
 | The Director | David Ignatius | [3.43](http://www.goodreads.com/book/show/23316525-the-director) | 2015 |   
@@ -347,29 +350,13 @@ If you like Mind Expanding books you should check out my new project http://diff
 |------|--------|------------------|----------------|  
 | The Kingkiller Chronicle | Patrick Rothfuss | [4.55](https://www.goodreads.com/series/45262-the-kingkiller-chronicle) | 2007 |  
 | The Lord of the Rings | J.R.R. Tolkien | [4.47](https://www.goodreads.com/series/66175-the-lord-of-the-rings) | 1954 |  
-| A Song of Ice and Fire | George R.R. Martin | [4.45](https://www.goodreads.com/series/43790-a-song-of-ice-and-fire) | 2005 |  
-| Harry Potter | J.K. Rowling | [4.44](https://www.goodreads.com/series/45175-harry-potter) | 1997 |  
 | Mistborn | Brandon Sanderson | [4.43](https://www.goodreads.com/series/40910-mistborn) | 2006 |
-| Harry Potter and the Methods of Rationality | Eliezer Yudkowsky | [4.38](https://www.goodreads.com/book/show/10016013-harry-potter-and-the-methods-of-rationality) | 2015 |  
 | Discworld | Terry Pratchett | [4.32](https://www.goodreads.com/series/40650-discworld) | 2001 |  
-| The Dark Tower | Stephen King | [4.27](https://www.goodreads.com/series/40750-the-dark-tower) |  |  
 | His Dark Materials | Philip Pullman | [4.25](https://www.goodreads.com/book/show/18116.His_Dark_Materials) |  |  
 | The Last Wish - Saga | Andrzej Sapkowski | [4.2](https://www.goodreads.com/book/show/1128434.The_Last_Wish) | 1993 |
-| The Chronicles of Narnia | Clive Staples Lewis | [4.24](https://www.goodreads.com/book/show/11127.The_Chronicles_of_Narnia) | 2002 |  
 | The City & The City | China Mieville | [3.91](https://www.goodreads.com/book/show/4703581-the-city-the-city) | 2009 |  
 | The Broken Empire | Mark Lawrence | [3.87](https://www.goodreads.com/series/64473-the-broken-empire) | 2011 |  
 
-### Historical Fiction
-| Name | Author | Goodreads Rating | Year Published |  
-|------|--------|------------------|----------------|  
-| Lonesome Dove | Larry McMurtry | [4.47](https://www.goodreads.com/book/show/256008.Lonesome_Dove) | 1999 |  
-| The Help | Kathryn Stockett | [4.45](https://www.goodreads.com/book/show/4667024-the-help) |  |  
-| The Book Thief | Markus Zusak | [4.36](https://www.goodreads.com/book/show/19063.The_Book_Thief) |  |  
-| All the Light We Cannot See | Anthony Doerr | [4.31](https://www.goodreads.com/book/show/18143977-all-the-light-we-cannot-see) | 2014 |  
-| The Pillars of the Earth | Ken Follett | [4.29](https://www.goodreads.com/book/show/5043.The_Pillars_of_the_Earth?from_search=true) | 2002 |  
-| Kane and Abel | Jeffrey Archer | [4.27](http://www.goodreads.com/book/show/78983.Kane_and_Abel) | 2004 |  
-| Emma | Jane Austen | [3.99](https://www.goodreads.com/book/show/6969.Emma) | 2003 |  
-| Sophie's World: A Novel About the History of Philosophy | Jostein Gaarder and Paulette Moller | [3.88](https://www.goodreads.com/book/show/10959.Sophie_s_World) | 1996 |  
 
 ### Humor
 | Name | Author | Goodreads Rating | Year Published |  
@@ -388,7 +375,8 @@ If you like Mind Expanding books you should check out my new project http://diff
 
 ### Science Fiction
 | Name | Author | Goodreads Rating | Year Published |  
-|------|--------|------------------|----------------|  
+|------|--------|------------------|----------------| 
+| The Sparrow | Mary Doria Russel | [4.17](https://www.goodreads.com/book/show/334176.The_Sparrow?from_search=true) | 1996 |  
 | The Martian | Andy Weir | [4.40](https://www.goodreads.com/book/show/18007564-the-martian) | 2012 |
 | The Hitchhiker's Guide to the Galaxy | Douglas Adams | [4.38](http://www.goodreads.com/book/show/11.The_Hitchhiker_s_Guide_to_the_Galaxy) | 1979|
 | Ready Player One | Ernest Cline | [4.31](https://www.goodreads.com/book/show/9969571-ready-player-one) | 2011 |
