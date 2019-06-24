@@ -4,6 +4,6 @@
 
 > Slowly Digitizing My Brain.
 
-- Computer Science, Machine Learning, Philosophy, Motorcycles
+- Fio Novum
 
 [Explore](#Overview)

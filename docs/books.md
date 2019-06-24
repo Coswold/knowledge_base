@@ -361,7 +361,8 @@ If you like Mind Expanding books you should check out my new project http://diff
 ### Humor
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
-| I Hope They Serve Beer In Hell | Tucker Max | [3.51](https://www.goodreads.com/book/show/9010.I_Hope_They_Serve_Beer_in_Hell) | 2006 |  
+| I Hope They Serve Beer In Hell | Tucker Max | [3.51](https://www.goodreads.com/book/show/9010.I_Hope_They_Serve_Beer_in_Hell) | 2006 | 
+| Egghead: Or, You Can't Survive on Ideas Alone | Bo Burnham | [4.11](https://www.goodreads.com/book/show/17333426-egghead-or-you-can-t-survive-on-ideas-alone?from_search=true) | 2013 |  
 
 ### Mystery
 | Name | Author | Goodreads Rating | Year Published |  

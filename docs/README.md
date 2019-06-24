@@ -1,8 +1,13 @@
 # Overview
 
-> I like to read and I forget stuff a lot, so I decided to upload my brain digitally.
+> I am interested in a large spectrum of topics, so I decided to upload my brain digitally.
 
-## Structure {docsify-ignore}
-* Main Topic
-    * Sub Topic
-    * Resources
+## Topics I'm Currently Studying {docsify-ignore}
+* Computer Science
+* Machine Learning
+* Philosophy
+* Creative Writing
+
+## Whats the Point? {docsify-ignore}
+> This is just a space for me to take notes on things that I am interested in. 
+> If you're interested in similar things, look around.
