@@ -1,5 +1,6 @@
 <!-- docs/_sidebar.md -->
 
-* [Home](/)
+* [Computer Science](cs.md)
 * [Philosophy](philosophy.md)
-* [Books](books.md "Books")
+* [Writing](writing.md)
+* [Books](books.md)
