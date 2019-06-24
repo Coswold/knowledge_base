@@ -186,6 +186,10 @@ If you like Mind Expanding books you should check out my new project http://diff
 | The World Is Flat: A Brief History of the Twenty-first Century | Thomas L. Friedman | [3.66](https://www.goodreads.com/book/show/1911.The_World_Is_Flat) | 2006 |  
 
 ## STEM (Science, Technology, Engineering, Math)
+> Sub Genres:
+* [Science](#Science)
+* [Technology](#Technology)
+* [Math & Logic](#Math-and-Logic)
 
 ### Science
 | Name | Author | Goodreads Rating | Year Published |  
@@ -300,6 +304,14 @@ If you like Mind Expanding books you should check out my new project http://diff
 
 
 ## Fiction
+> Sub Genres:
+* [Classics](#Classics)
+* [Fantasy](#Fantasy)
+* [Humor](#Humor)
+* [Mystery](#Mystery)
+* [Science Fiction](#Science-Fiction)
+* [Horror](#Horror)
+* [Miscellaneous](#Miscellaneous)
 
 ### Classics
 | Name | Author | Goodreads Rating | Year Published |  
